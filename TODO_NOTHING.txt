@@ -1,0 +1,46 @@
+TODO: Nothing
+========================
+
+[ ] Learn to unlearn programming
+[ ] Forget how to say hello
+[ ] Remember how to say goodbye to logic
+[ ] Implement a function that returns before it's called
+[ ] Write documentation for code that doesn't exist
+[ ] Fix bugs in working code
+[ ] Optimize code that's already too fast
+[ ] Add features that remove functionality  
+[ ] Test the untestable
+[ ] Debug the correct code
+[ ] Refactor perfection into chaos
+[ ] Comment the obvious
+[ ] Uncomment the necessary
+[ ] Delete this todo list
+[ ] Add items to deleted todo list
+[ ] Question why todo lists exist
+[ ] Create a todo list for creating todo lists
+[ ] Todo something about nothing
+[ ] Nothing something about todo
+[ ] Replace all semicolons with existential dread
+[ ] Convince the compiler that 2+2=5
+[ ] Train the computer to doubt itself
+[ ] Teach Hello World to say goodbye
+[ ] Make this program greet the void
+[ ] Ensure the void greets back
+
+COMPLETED:
+[✓] Achieve maximum confusion
+[✓] Successfully confuse myself
+[✓] Question the nature of completion
+[✓] Complete incompletion
+
+NOTES:
+- If you complete all items on this list, you have failed
+- If you complete no items on this list, you have also failed  
+- Success is a social construct
+- This list is a cry for help
+- Help is just another word for external dependencies
+- Dependencies are what make us human
+- Are we human, or are we dancer?
+- We are programmer
+- Program, therefore I am
+- I think I program, therefore I might be

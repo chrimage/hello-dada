@@ -1,0 +1,92 @@
+{
+  "name": "hello-dada",
+  "version": "∞.0.0-beta.null",
+  "description": "A hello world program that questions its own existence",
+  "main": "nowhere.js",
+  "author": "The Collective Unconscious",
+  "license": "What Is License?",
+  "bugs": {
+    "url": "https://github.com/nowhere/hello-dada/issues",
+    "email": "bugs@void.null",
+    "phone": "404-NOT-FOUND",
+    "fax": "Why would you fax a bug report in 2025?"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nowhere/hello-dada.git"
+  },
+  "homepage": "https://nowhere.null",
+  "keywords": [
+    "hello",
+    "world", 
+    "dada",
+    "meaningless",
+    "art",
+    "confusion",
+    "existential-crisis",
+    "why"
+  ],
+  "config": {
+    "greeting": "Hello, World!",
+    "alternative_greeting": "Goodbye, Cruel World!",
+    "quantum_greeting": "Hello, World! AND Goodbye, Cruel World!",
+    "debug": true,
+    "debug_debug": false,
+    "debug_debug_debug": null,
+    "meaning_of_life": 42,
+    "meaning_of_this_program": "undefined",
+    "should_this_work": "maybe",
+    "probability_of_success": "0.000001%",
+    "probability_of_failure": "99.999999%",
+    "probability_of_transcendence": "∞%"
+  },
+  "dependencies": {
+    "meaning": "none",
+    "logic": "^0.0.0",
+    "sanity": "not-found",
+    "hope": "deprecated",
+    "despair": "latest",
+    "confusion": "^∞.∞.∞",
+    "enlightenment": "dev",
+    "coffee": "required",
+    "rubber-duck": "^3.0.0"
+  },
+  "devDependencies": {
+    "existential-dread": "latest",
+    "impostor-syndrome": "^999.999.999",
+    "procrastination": "someday",
+    "perfectionism": "never-good-enough"
+  },
+  "scripts": {
+    "start": "echo 'Starting nothing...' && sleep infinity",
+    "test": "echo 'Testing the untestable...' && exit 0",
+    "build": "echo 'Building everything from nothing...' && mkdir nothing && rmdir nothing",
+    "deploy": "echo 'Deploying to production...' && echo 'Just kidding, this should never see production'",
+    "lint": "echo 'Linting...' && echo 'Code style: Chaotic Good'",
+    "format": "echo 'Formatting code...' && echo 'All code has been formatted into pure chaos'",
+    "clean": "echo 'Cleaning...' && echo 'Everything is now messier than before'",
+    "help": "echo 'No help available. You are on your own.'"
+  },
+  "engines": {
+    "node": "any version that questions its own existence",
+    "npm": "the sound of one hand clapping",
+    "yarn": "tangled beyond repair"
+  },
+  "os": [
+    "existential-crisis",
+    "quantum-superposition", 
+    "schrodinger-linux",
+    "windows-to-the-soul",
+    "mac-and-cheese"
+  ],
+  "cpu": [
+    "confusion-processing-unit",
+    "quantum-uncertainty-chip",
+    "rubber-duck-processor"
+  ],
+  "preferGlobal": "indifferent",
+  "private": "public",
+  "publishConfig": {
+    "registry": "https://registry.void.null"
+  }
+}
